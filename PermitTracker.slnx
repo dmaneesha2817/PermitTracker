@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PermitTracker.Api/PermitTracker.Api.csproj" />
+    <Project Path="src/PermitTracker.Core/PermitTracker.Core.csproj" />
+    <Project Path="src/PermitTracker.Infrastructure/PermitTracker.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PermitTracker.Tests/PermitTracker.Tests.csproj" />
+  </Folder>
+</Solution>
